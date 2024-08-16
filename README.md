@@ -1,0 +1,2 @@
+# JINPA_PROJECT_SUMMARY
+JINAP 프로젝트의 전체적인 그림
